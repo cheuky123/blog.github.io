@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cheuky5.github.io</id>
     <title>cheuky</title>
-    <updated>2020-06-21T03:33:15.587Z</updated>
+    <updated>2020-06-22T09:09:27.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cheuky5.github.io"/>
     <link rel="self" href="https://cheuky5.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://cheuky5.github.io/images/avatar.png</logo>
     <icon>https://cheuky5.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cheuky</rights>
+    <entry>
+        <title type="html"><![CDATA[Zoom updates security measures]]></title>
+        <id>https://cheuky5.github.io/post/zoom-updates-security-measures/</id>
+        <link href="https://cheuky5.github.io/post/zoom-updates-security-measures/">
+        </link>
+        <updated>2020-06-22T09:06:17.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.04.28</p>
+<p>VIDEO-CONFERENCING platform Zoom is rolling out a number of measures meant to stem criticism over how it has handled security as users flock to the application during the coronavirus pandemic.</p>
+<p>Zoom chief executive Eric Yuan (袁征) has laid out steps that the company is taking against problems such as data hacking and harassment by individuals who crash conference sessions in what is referred to as ‘Zoombombing’.</p>
+<p>A new feature allows paid users to select which regions their data is routed through in a move apparently aimed at concerns over information passing through China, where it might be subject to snooping.</p>
+<p>The Silicon Valley (矽谷) startup also said that it is working with cyber-security firm Luta Security to overhaul processes and its ‘bug bounty’ programme that rewards researchers who find security flaws in its operations.</p>
+<p>As to reports about users’ log-in information being sold by criminals, it said the credentials were likely stolen elsewhere on the internet, or by malicious code slipped into people’s computers. Zoom is building systems to block such attempts.</p>
+<p>Other new security measures include a new toolbar to easily access features such as locking chats from strangers and making meeting password requirements a default setting. Yuan said the number of people taking part in Zoom meetings daily eclipsed 200 million in March, up from just 10 million at the end of 2019.</p>
+<p>(This article is published on Junior Standard on 16 April 2020)</p>
+<p>FBI warns video calls are getting hijacked<br>
+www.cnn.it/2VMgYot</p>
+<p>Zoom sued for overstating, not disclosing privacy, security flaws<br>
+www.reut.rs/2zkVEyW<br>
+This news paper is from junior standard</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cheuky5.github.io/post/hello-gridea/</id>
