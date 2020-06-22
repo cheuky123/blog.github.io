@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cheuky5.github.io</id>
     <title>cheuky</title>
-    <updated>2020-06-22T09:16:51.674Z</updated>
+    <updated>2020-06-22T09:17:21.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cheuky5.github.io"/>
     <link rel="self" href="https://cheuky5.github.io/atom.xml"/>
-    <subtitle>weclome to my blog entry~</subtitle>
+    <subtitle>Weclome to my blog entry!</subtitle>
     <logo>https://cheuky5.github.io/images/avatar.png</logo>
     <icon>https://cheuky5.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cheuky</rights>
